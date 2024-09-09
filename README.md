@@ -19,7 +19,7 @@ Here are some of the awesome tools I work with:
 
 I’m certified in **Data Analysis** and proud to showcase my skills in SQL, Google BigQuery, Python, and Tableau.
 
-- 🏅 [View my Certification](https://credsverse.com/credentials/f549a3c2-4dc0-4ab8-a77c-c13d5f272706?)
+- 🏅 [View my Certification: Boolean](https://credsverse.com/credentials/f549a3c2-4dc0-4ab8-a77c-c13d5f272706?)
 
 ## 📈 Projects in Action
 
