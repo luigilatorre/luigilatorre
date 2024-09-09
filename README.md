@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Luigi]!
+# 👋 Hey, I'm Luigi!
 
 🎯 **Junior Data Analyst** | 📊 **Data Enthusiast** | 💡 **Problem Solver**
 
@@ -23,12 +23,11 @@ I’m certified in **Data Analysis** and proud to showcase my skills in SQL, Goo
 
 Here are some of the projects I've worked on that showcase my skills:
 
-- **Ecommerce Sales Dashboard** 🛒: An interactive Tableau dashboard analyzing sales data across regions. [Link to Project](#)
-- **SQL Queries for Retail Analysis** 🛍️: Complex queries to analyze customer behavior and sales trends. [Link to Project](#)
-- **Python Data Cleaning and Visualization** 🐍: Using pandas and matplotlib to clean and visualize messy data. [Link to Project](#)
+- **Ecommerce Sales Dashboard** 🛒: An interactive Tableau dashboard analyzing sales data across regions. [Link to Project](https://github.com/luigilatorre/Tableau-The-Look-Ecommerce-Sales-Profit-Analysis)
+- **SQL Queries for Retail Analysis** 🛍️: Complex queries to analyze customer behavior and sales trends. [Link to Project](https://github.com/luigilatorre/sql-data-analysis)
+- **Python Data Cleaning and Visualization** 🐍: Using pandas and matplotlib to clean and visualize messy data. [Link to Project](https://github.com/luigilatorre/Air-Quality-Analysis-Lombardy-Region)
 
 ## 🚀 Let's Connect
 
-- 💼 [LinkedIn](#)
-- 🖥️ [Portfolio Website](#)
-- ✉️ Reach out to me at: [your-email@example.com](mailto:your-email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/luigi-la-torre-b900531b0/)
+- ✉️ Reach out to me at: [your-email@example.com](mailto:luigiltr@gmail.com)
