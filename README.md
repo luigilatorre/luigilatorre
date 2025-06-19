@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Luigi!
 
-🎯 **Junior Data Analyst** | 📊 **Data Enthusiast** | 💡 **Problem Solver**
+🎯 **Data Analyst** | 📊 **Data Enthusiast** | 💡 **Problem Solver**
 
 Welcome to my GitHub profile! I'm passionate about data analysis and constantly learning new tools and techniques to transform raw data into meaningful insights. Whether it’s crunching numbers in Python, writing SQL queries, or creating visual masterpieces with Tableau, I'm always up for the challenge!
 
